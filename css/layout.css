@@ -53,3 +53,8 @@
   float: right;
   width: 32.33%;
 }
+
+.bottom-padding {
+  display: inline-block;
+  margin-bottom: 2%;
+}
