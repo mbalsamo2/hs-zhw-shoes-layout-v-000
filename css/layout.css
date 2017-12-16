@@ -74,3 +74,9 @@
 .shadow {
   display: inline-block;
 }
+
+.wrapper {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
