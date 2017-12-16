@@ -40,6 +40,9 @@
   vertical-align: bottom;
   margin-bottom: 1.5%;
 }
+#archive h2 {
+  margin-top: 1.5%;
+}
 
 #deals-container {
   width: 100%;
