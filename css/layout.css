@@ -30,8 +30,10 @@
 }
 
 .col-1-3rd {
-  float: right;
   width: 32.33%;
+  margin: 1% 0% 1% 1%
+  float: right;
+
 }
 
 #deals-container {
