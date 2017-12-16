@@ -25,8 +25,9 @@
 /* Posititoning Classes */
 
 .col-2-3rds {
-  width: 65.66%
   float: left;
+  width: 65.66%
+
 
 }
 
