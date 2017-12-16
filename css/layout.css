@@ -36,6 +36,11 @@
   margin-left: 1%;
 }
 
+#archive {
+  vertical-align: bottom;
+  margin-bottom: 1.5%;
+}
+
 #deals-container {
   width: 100%;
   float: left;
