@@ -37,6 +37,6 @@
 .col-deals {
   clear: both;
   float: left;
-  display: inline-block;
+  display: inline;
   width: 32%;
 }
