@@ -26,14 +26,12 @@
 
 .col-2-3rds {
   width: 65.66%
-  margin: 1% 1% 1% 0%;
   float: left;
-  
+
 }
 
 .col-1-3rd {
   width: 32.33%;
-  margin: 1% 0% 1% 1%
   float: right;
 
 }
